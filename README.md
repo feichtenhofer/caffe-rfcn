@@ -1,6 +1,6 @@
 # Caffe branch for D&T
 
-This is a modified version of Caffe supporting [**Detect & Track*](https://github.com/feichtenhofer/Detect-Track), which has been tested under Windows and Linux (Ubuntu 14.04).
+This is a modified version of Caffe supporting [**Detect & Track**](https://github.com/feichtenhofer/Detect-Track), which has been tested under Windows and Linux (Ubuntu 14.04).
 
 The code is based on the Caffe [branch](https://github.com/daijifeng001/caffe-rfcn) for [R-FCN](https://github.com/daijifeng001/r-fcn). 
 
